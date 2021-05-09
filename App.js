@@ -7,8 +7,8 @@ import {RGrid, RView} from 'react-native-rbg';
 export default function App() {
     return (
         <SafeAreaProvider>
-            <RGrid>
-                <SafeAreaView>
+            <SafeAreaView>
+                <RGrid>
                     <ScrollView>
                         <Text style={styles.sampleHeader}>Grid Columns</Text>
                         <RView classes="container">
@@ -225,8 +225,8 @@ export default function App() {
                             </RView>
                         </View>
                     </ScrollView>
-                </SafeAreaView>
-            </RGrid>
+                </RGrid>
+            </SafeAreaView>
         </SafeAreaProvider>
 
     );
