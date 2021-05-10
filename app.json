@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-rbg-sample",
-    "slug": "react-native-rbg-sample",
+    "name": "react-native-rgrid-sample",
+    "slug": "react-native-rgrid-sample",
     "version": "1.0.0",
     "orientation": "default",
     "icon": "./assets/icon.png",
