@@ -5210,10 +5210,10 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-rgrid@1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/react-native-rgrid/-/react-native-rgrid-1.0.0.tgz#2db9c07a84dd9dea3237a464427cab51ab0edffa"
-  integrity sha512-TZRMnsXcIp7hZADRY4PvZvokOczXETK+2+cM7DasUchfPotg0LdeUA5y5Pan80KYEzNV1vGEjjXp/c9KeTtHUA==
+react-native-rgrid@1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/react-native-rgrid/-/react-native-rgrid-1.0.1.tgz#7247b8fc4af8b28f4a8c0ef7cfa80ee64570e8f9"
+  integrity sha512-+Np7CPSzEAD+knf9Izb8yruvCQk4JSTak4DDRx/QwzPBB3JAZeAwbr9gV1hXPLcrhl4RgsnfSZtj4Y5xfIs2vw==
   dependencies:
     "@expo/match-media" "^0.1.0"
     eventemitter3 "^4.0.7"
