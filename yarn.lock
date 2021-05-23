@@ -5210,16 +5210,14 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
-react-native-rgrid@1.0.1:
-  version "1.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-rgrid/-/react-native-rgrid-1.0.1.tgz#7247b8fc4af8b28f4a8c0ef7cfa80ee64570e8f9"
-  integrity sha512-+Np7CPSzEAD+knf9Izb8yruvCQk4JSTak4DDRx/QwzPBB3JAZeAwbr9gV1hXPLcrhl4RgsnfSZtj4Y5xfIs2vw==
+react-native-rgrid@1.0.3:
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-rgrid/-/react-native-rgrid-1.0.3.tgz#35073466bb9dea2b31e4efa09a42f57688544736"
+  integrity sha512-wNtFP6jT8Up0nxpitlfPs/OtAgVKxyU5BWGgWaIGHZ4Ikg4hLhBCBy6Er3GGNT+sLict9OdGKiakIYiv3auLbQ==
   dependencies:
     "@expo/match-media" "^0.1.0"
     eventemitter3 "^4.0.7"
-    lodash.isequal "^4.5.0"
     matchmediaquery "^0.3.1"
-    prop-types "^15.6.0"
 
 react-native-safe-area-context@3.2.0:
   version "3.2.0"
